@@ -2,6 +2,7 @@
 
 	* Make `--forward` imply `--masquerade`.
 	* Log warning when connection limit is exceeded.
+	* Rewrite manual page oidentd(8).
 
 2018-06-13  Janik Rabe  <oidentd@janikrabe.com>
 
